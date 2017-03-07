@@ -1,3 +1,3 @@
-from example.uklon_products import *
+from example.uklon_products import get_producst
 
 get_producst()

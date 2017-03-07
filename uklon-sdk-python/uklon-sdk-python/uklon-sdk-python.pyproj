@@ -25,6 +25,9 @@
     <Compile Include="example\uklon_products.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="src\credentials.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="src\uklon_client.py">
       <SubType>Code</SubType>
     </Compile>

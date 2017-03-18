@@ -1,3 +1,4 @@
-from example.uklon_products import get_producst
+from example.uklon_examples import run_tests
 
-get_producst()
+if __name__ == '__main__':
+    run_tests()
